@@ -4,6 +4,7 @@ Note: A live ActiveCampaign account was not available, so this project simulates
 📁 Folder Structure
 activecampaign-crm-extractor/
 ├── manifest.json
+├── service-worker.js
 ├── content/
 │   └── extractor.js
 ├── popup/

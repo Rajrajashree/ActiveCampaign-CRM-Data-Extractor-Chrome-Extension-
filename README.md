@@ -8,9 +8,6 @@ activecampaign-crm-extractor/
 │   └── extractor.js
 ├── popup/
 │   ├── index.html
-│   ├── popup.js
-│   └── style.css
-└── README.md
 
 
 🚀 Installation Steps
